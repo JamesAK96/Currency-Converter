@@ -1,1 +1,1 @@
-Java GUI program that displays financial markets data
+Java GUI programs that display financial markets data
